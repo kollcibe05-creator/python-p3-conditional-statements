@@ -47,6 +47,27 @@ def calculator(operation, num1, num2):
     pass
 
 
+# def check_time(foo): 
+#     def logger (time): 
+#         if time<2100 :
+#             foo(time)    
+#         else:
+#             print("Well here is your empty stripped value") 
+#     return logger
+#     pass
+        
+# @check_time
+# def func_one (time):
+#     print("I am feeling it")
+
+#  @check_time
+# def function_two (time):
+#     print("Me too") 
+
+#  func_one()
+#  func_two()     
+
+
 
 # #try/except and  finally which is to be computed irregardless
 # def divide(num1, num2):
